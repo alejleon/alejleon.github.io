@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "9T3ZC4D4BU.com.shmoodystaging.app",
+                "paths": [ "*"]
+            },
+            {
+                "appID": "9T3ZC4D4BU.com.yc14ec100daa.www",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
